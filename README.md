@@ -1,16 +1,28 @@
 # product_app
 
-A new Flutter project.
+Developed an E-commerce application using Flutter
 
-## Getting Started
+* Features -
+  - Login/Signup through FireBase Authentication
+  - Clean and Responsive UI
+  - Add Items to cart
+  - Both Local and FireStore Database used
+  - Increase, decrease or delete items of cart
+  - Order stored to FireStore Database
 
-This project is a starting point for a Flutter application.
+                                                           Login Video-
+    
 
-A few resources to get you started if this is your first Flutter project:
+https://github.com/Vasugupta13/Product-app/assets/98811369/042f9bc6-0a1e-48c9-a9b7-479048713f75
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+                                                           SignUp video - 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://github.com/Vasugupta13/Product-app/assets/98811369/f3960219-4a47-42cb-9d8f-a31f912d85ef
+
+                                                         Shopping Function-
+           
+
+https://github.com/Vasugupta13/Product-app/assets/98811369/1178a8bb-1bf0-48ae-901d-92a373a5f6a2
+
+                                         
