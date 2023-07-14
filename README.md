@@ -4,6 +4,7 @@ Developed an E-commerce application using Flutter
 
 * Features -
   - Login/Signup through FireBase Authentication
+  - Provider State Management
   - Clean and Responsive UI
   - Add Items to cart
   - Both Local and FireStore Database used
